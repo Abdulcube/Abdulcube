@@ -1,5 +1,11 @@
 ### Hi there 👋
+<img src="https://i.pinimg.com/originals/97/87/77/978777f3dbbe42ed7be1b3c09912ca6c.gif" alt="Tony Stark">
 
+"Peace In Our Time"
+
+Computer Science graduate from Rutgers University with a concentration in Computer and Software Systems. 
+Experienced Forward Deployed Software Engineer in Data Science at Palantir and Backend Engineer at AT&T. 
+Passionate about working on cutting-edge technology projects with expertise in Python and Java.
 <!--
 **Abdulcube/Abdulcube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
