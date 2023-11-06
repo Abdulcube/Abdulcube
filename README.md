@@ -7,7 +7,7 @@
 
 🐱‍💻: Passionate about working on cutting-edge technology projects with expertise in Python and Java.
 
-<a href="https://github.com/Abdulcube/Abdulcube/blob/a66df4cfde513b3f72df99bb04cac78b3df81343/aabdulrahman_cv.pdf"> Techstack</a> 💻: 
+<a href="https://github.com/Abdulcube/Abdulcube/blob/a66df4cfde513b3f72df99bb04cac78b3df81343/aabdulrahman_cv.pdf"> Techstack </a> 💻: 
 
 - Python
 - Java
