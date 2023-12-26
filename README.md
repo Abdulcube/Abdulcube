@@ -1,5 +1,5 @@
 ### Peace in our time 👨🏽‍💻
-<img src="https://i.pinimg.com/originals/97/87/77/978777f3dbbe42ed7be1b3c09912ca6c.gif" alt="Tony Stark"> <a href="www.linkedin.com/in/abdulrahmanabdul"><img width="150" height="200" src="https://github.com/Abdulcube/Abdulcube/blob/b28803b7bff841e23d8c87ba754979e3c4df8499/Robot%20better.png"></a>
+<img src="https://i.pinimg.com/originals/97/87/77/978777f3dbbe42ed7be1b3c09912ca6c.gif" alt="Tony Stark"> <a href="https://www.linkedin.com/in/abdulrahmanabdul"><img width="150" height="200" src="https://github.com/Abdulcube/Abdulcube/blob/b28803b7bff841e23d8c87ba754979e3c4df8499/Robot%20better.png"></a>
 
 👨🏾: I am a starry-eyed software engineer! 🤩 Backend developer graduate from Rutgers University.
 
