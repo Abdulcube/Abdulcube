@@ -3,16 +3,17 @@
 
 👨🏾: I am a starry-eyed software engineer! 🤩 Software developer graduate from Rutgers University.
 
-🏣: Experienced Forward Deployed Software Engineer in Data Science at Palantir and Backend Engineer at AT&T.
+🏣: Currently a Full-Stack Software Engineer III at JPMorgan Chase. Experienced Forward Deployed Software Engineer in Data Science at Palantir and Backend Engineer at AT&T.
 
 🐱‍💻: Passionate about working on cutting-edge technology projects with expertise in Python and Java.
 
 <a href="https://github.com/Abdulcube/Abdulcube/blob/a66df4cfde513b3f72df99bb04cac78b3df81343/aabdulrahman_cv.pdf"> Techstack </a> 💻: 
 
+- React.js
+- JavaScript
 - Python
 - Java
 - SQL
-- JS
 - MacOS
 
 Always learning more!
